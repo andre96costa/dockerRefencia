@@ -1,0 +1,31 @@
+# Instruções para o programa
+nome: "Andre"
+idade: 30 # Esta é a idade do usúario
+profissao: programador
+
+# Nulos
+nulo: ~
+nulo2: null
+nulo3: 
+
+# Bulleans
+"true": true
+"true2": on
+"false": false
+"false2": off
+
+# Arrays e listas
+arr: [1,2,3]
+items: 
+  - 1
+  - 2
+  - 3
+  - "outro"
+  - teste
+
+# Dicionario
+obj: {a: 1, b: 2, c: três}
+obj2:
+  v1: 1
+  v2: 2
+  v3: três
